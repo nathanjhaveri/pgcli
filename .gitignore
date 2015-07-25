@@ -19,6 +19,7 @@ lib64/
 parts/
 sdist/
 var/
+venv/
 *.egg-info/
 .installed.cfg
 *.egg
@@ -54,9 +55,10 @@ docs/_build/
 # PyBuilder
 target/
 
-# PyCharm
+# Editor
 .idea/
 *.iml
+*.swp
 
 # Vagrant
 .vagrant/
